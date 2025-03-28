@@ -1,84 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9147e0d0-26f5-4a7b-9a11-78ba5b7fc887" name="Changes" comment="Add Legis">
-      <change afterPath="$PROJECT_DIR$/legis/assets/api-examples.md.DOJqgAoD.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/api-examples.md.DOJqgAoD.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/app.F11zMFYt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/chunks/framework.Bw0Gm4PQ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/chunks/theme.CqawuxWn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/index.md.BPFJe2T0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/index.md.BPFJe2T0.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.CfOzB9lH.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.CfOzB9lH.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Bh3GvqvR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Bh3GvqvR.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CR4bWQur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CR4bWQur.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DAVgaGY8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DAVgaGY8.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.BXvS0XQ-.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.BXvS0XQ-.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.Bi924GgN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.Bi924GgN.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.BVL_0X2Q.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.BVL_0X2Q.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CaXC5rzM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CaXC5rzM.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.DwjtMZ6q.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.DwjtMZ6q.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.CrCzi6Hw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.CrCzi6Hw.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.C3ttkA4m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.C3ttkA4m.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.hDOFbKYX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.hDOFbKYX.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DMEykwb-.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DMEykwb-.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.he_E3Fs-.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.he_E3Fs-.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.zYNI4SDd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.zYNI4SDd.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.Cd_p2S6Z.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.Cd_p2S6Z.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.Cky2RKnk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.Cky2RKnk.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.14UDfkdf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.14UDfkdf.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C09bxJhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C09bxJhr.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.DMXvEvqB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.DMXvEvqB.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_index.md.BkMxeaUj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/legis_index.md.BkMxeaUj.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/markdown-examples.md.DCDlF_HV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/markdown-examples.md.DCDlF_HV.lean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legis/assets/style.DRvcj-Gq.css" afterDir="false" />
+    <list default="true" id="9147e0d0-26f5-4a7b-9a11-78ba5b7fc887" name="Changes" comment="Add gitignore">
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders.md.rdZdwzEw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders.md.rdZdwzEw.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.D5lxW7Yy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.D5lxW7Yy.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.BnwyzQxT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.BnwyzQxT.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.C4rOJtlT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.C4rOJtlT.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DtdwDiX3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DtdwDiX3.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.CLctml8K.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.CLctml8K.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.UP5zz-v-.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.UP5zz-v-.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.CJ3eYPv3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.CJ3eYPv3.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-07-establishing-the-white-house-task-force.md.8qp-ZCZB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-07-establishing-the-white-house-task-force.md.8qp-ZCZB.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.CXnJUlTd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.CXnJUlTd.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.D69ze9E4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.D69ze9E4.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.CwnrHNQS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.B5BJM-D7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.B5BJM-D7.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DdfFbtvT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DdfFbtvT.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.DLWBz82L.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.DLWBz82L.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.C6XvWUHh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.C6XvWUHh.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.DgaJdfPT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.DgaJdfPT.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.B5G6UaUt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.BgpGC9GD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.BgpGC9GD.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.BwLxVN-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.BwLxVN-4.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.CExVjIdY.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.CExVjIdY.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/index.md.CQ6w1ihU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/assets/index.md.CQ6w1ihU.lean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-01-designating-english-as-the-official-language-of-the-united-states.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-01-immediate-expansion-of-american-timber-production.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-05-honoring-jocelyn-nungaray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-07-establishing-the-white-house-task-force.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-08-restoring-public-service-loan-forgiveness.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-15-addressing-risks-from-paul-weiss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-25-addressing-risks-from-jenner-block.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-25-modernizing-payments-to-and-from-americas-bank-account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-26-adjusting-imports-of-automobiles-and-automobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-26-executive-grant-of-clemency-for-devon-archer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-27-addressing-risks-from-wilmerhale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legis/executive-orders/2025-03-27-restoring-truth-and-sanity-to-american-history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/legis/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/legis/api-examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/api-examples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/api-examples.md.BjKfAO-A.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/api-examples.md.BjKfAO-A.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/app.CwDTFhKh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/chunks/framework.BHrE6nLq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/chunks/theme.AwZz1IS3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/index.md.BPFJe2T0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/index.md.BPFJe2T0.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/index.md.W9UoGA6O.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/index.md.W9UoGA6O.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.CfOzB9lH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.CfOzB9lH.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.DhX9QTHG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.md.DhX9QTHG.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Bh3GvqvR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Bh3GvqvR.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Cj1U8DSl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.md.Cj1U8DSl.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CR4bWQur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CR4bWQur.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CnUMgje0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-designating-english-as-the-official-language-of-the-united-states.md.CnUMgje0.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DAVgaGY8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.DAVgaGY8.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.Ddk-d8UY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-01-immediate-expansion-of-american-timber-production.md.Ddk-d8UY.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.BXvS0XQ-.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.BXvS0XQ-.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.CTH459JB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.md.CTH459JB.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.Bi924GgN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.Bi924GgN.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.TjlZmxoY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.md.TjlZmxoY.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.BVL_0X2Q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.BVL_0X2Q.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.C6DRCGHp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-05-honoring-jocelyn-nungaray.md.C6DRCGHp.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CXqPqF9d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CXqPqF9d.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CaXC5rzM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-07-establishing-the-white-house-task-force.md.CaXC5rzM.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.Cq4PEZyz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.Cq4PEZyz.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.DwjtMZ6q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-08-restoring-public-service-loan-forgiveness.md.DwjtMZ6q.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.CrCzi6Hw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.CrCzi6Hw.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.ybORwRDI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-15-addressing-risks-from-paul-weiss.md.ybORwRDI.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.BCTDjyZu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.BCTDjyZu.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.C3ttkA4m.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.C3ttkA4m.lean.js" beforeDir="false" afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.md.CwnrHNQS.lean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.C9CKDPQI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.C9CKDPQI.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.hDOFbKYX.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-addressing-risks-from-jenner-block.md.hDOFbKYX.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DMEykwb-.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.DMEykwb-.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.ze1ZvTWa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.md.ze1ZvTWa.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.CVa4y_dU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.CVa4y_dU.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.he_E3Fs-.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-modernizing-payments-to-and-from-americas-bank-account.md.he_E3Fs-.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.DngxF7xy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.DngxF7xy.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.zYNI4SDd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.md.zYNI4SDd.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.BESHqwlP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.BESHqwlP.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.Cd_p2S6Z.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.md.Cd_p2S6Z.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.Cky2RKnk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.Cky2RKnk.lean.js" beforeDir="false" afterPath="$PROJECT_DIR$/legis/assets/executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.B5G6UaUt.lean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.P5lK-t1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-adjusting-imports-of-automobiles-and-automobile.md.P5lK-t1c.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.14UDfkdf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.14UDfkdf.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.VaO4eF6G.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-26-executive-grant-of-clemency-for-devon-archer.md.VaO4eF6G.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C09bxJhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C09bxJhr.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C0IAEGZ3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-addressing-risks-from-wilmerhale.md.C0IAEGZ3.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.BGhB2ax0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.BGhB2ax0.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.DMXvEvqB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_executive-orders_2025-03-27-restoring-truth-and-sanity-to-american-history.md.DMXvEvqB.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_index.md.BkMxeaUj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_index.md.BkMxeaUj.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_index.md.CVPekWDc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/legis_index.md.CVPekWDc.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/markdown-examples.md.gSmptGD0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/markdown-examples.md.gSmptGD0.lean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/assets/style.DFTx90Kk.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/legis/hashmap.json" beforeDir="false" afterPath="$PROJECT_DIR$/legis/hashmap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/legis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-designating-english-as-the-official-language-of-the-united-states.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-designating-english-as-the-official-language-of-the-united-states.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-immediate-expansion-of-american-timber-production.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-immediate-expansion-of-american-timber-production.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-05-honoring-jocelyn-nungaray.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-05-honoring-jocelyn-nungaray.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-07-establishing-the-white-house-task-force.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-07-establishing-the-white-house-task-force.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-08-restoring-public-service-loan-forgiveness.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-08-restoring-public-service-loan-forgiveness.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-15-addressing-risks-from-paul-weiss.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-15-addressing-risks-from-paul-weiss.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-addressing-risks-from-jenner-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-addressing-risks-from-jenner-block.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-modernizing-payments-to-and-from-americas-bank-account.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-modernizing-payments-to-and-from-americas-bank-account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-adjusting-imports-of-automobiles-and-automobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-adjusting-imports-of-automobiles-and-automobile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-executive-grant-of-clemency-for-devon-archer.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-executive-grant-of-clemency-for-devon-archer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-addressing-risks-from-wilmerhale.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-addressing-risks-from-wilmerhale.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-restoring-truth-and-sanity-to-american-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-restoring-truth-and-sanity-to-american-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legis/legis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/legis/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-02-26-implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-addressing-the-threat-to-national-security-from-imports-of-timber-lumber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-designating-english-as-the-official-language-of-the-united-states.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-01-immediate-expansion-of-american-timber-production.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-02-amendment-to-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-03-further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-05-honoring-jocelyn-nungaray.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-07-establishing-the-white-house-task-force.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-08-restoring-public-service-loan-forgiveness.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-15-addressing-risks-from-paul-weiss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-24-imposing-tariffs-on-countries-importing-venezuelan-oil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-addressing-risks-from-jenner-block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-immediate-declassification-of-materials-related-to-the-federal-bureau-of-investigations-crossfire-hurricane-investigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-modernizing-payments-to-and-from-americas-bank-account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-preserving-and-protecting-the-integrity-of-american-elections.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-25-protecting-americas-bank-account-against-fraud-waste-and-abuse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-adjusting-imports-of-automobiles-and-automobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-26-executive-grant-of-clemency-for-devon-archer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-addressing-risks-from-wilmerhale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/executive-orders/2025-03-27-restoring-truth-and-sanity-to-american-history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legis/legis/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/legis/markdown-examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/legis/markdown-examples.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +224,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/legis" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,7 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740188448465</updated>
       <workItem from="1740188448466" duration="59000" />
-      <workItem from="1743137067347" duration="327000" />
+      <workItem from="1743137067347" duration="995000" />
     </task>
     <task id="LOCAL-00001" summary="Add Legis">
       <option name="closed" value="true" />
@@ -148,7 +264,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743137084709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update base">
+      <option name="closed" value="true" />
+      <created>1743137398465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743137398465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add gitignore">
+      <option name="closed" value="true" />
+      <created>1743137432509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743137432509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +288,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Legis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Legis" />
+    <MESSAGE value="Update base" />
+    <MESSAGE value="Add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
   </component>
 </project>
