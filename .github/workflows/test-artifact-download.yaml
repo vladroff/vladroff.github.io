@@ -10,6 +10,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: github-pages
-          path: foo
+#          path: foo
           repository: vladroff/legis
           github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
