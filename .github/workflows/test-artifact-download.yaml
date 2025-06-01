@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: "Cleanup"
         run: rm -rf legis/*
-      - run: ls -R **
+      - run: ls -R *
       - name: "Download Artifact"
         uses: actions/download-artifact@v4
         with:
@@ -22,4 +22,4 @@ jobs:
           repository: vladroff/legis
           github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
           run-id: ${{ inputs.run-id }}
-      - run: ls -R **
+      - run: ls -R *
