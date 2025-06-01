@@ -19,3 +19,4 @@ jobs:
           repository: vladroff/legis
           github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
           run-id: '${{ inputs.runId }}'
+      - run: ls -R **
