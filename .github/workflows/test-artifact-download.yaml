@@ -12,3 +12,4 @@ jobs:
           name: github-pages
           path: foo
           repository: vladroff/legis
+          github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
