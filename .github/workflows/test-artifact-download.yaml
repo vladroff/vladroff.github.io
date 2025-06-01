@@ -2,8 +2,8 @@ name: "Test Artifact Download"
 on:
   workflow_dispatch:
     inputs:
-      artifact-id:
-        description: "Legis Artifact ID"
+      run-id:
+        description: "Legis Run ID"
         required: true
         type: string
 
@@ -14,8 +14,9 @@ jobs:
       - name: "Download Artifact"
         uses: actions/download-artifact@v4
         with:
+          name: legis-vitepress
           path: foo
           repository: vladroff/legis
           github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
-          artifact-ids: '${{ inputs.artifact-id }}'
+          run-id: ${{ inputs.run-id }}
       - run: ls -R **
