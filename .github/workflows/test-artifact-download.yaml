@@ -1,0 +1,14 @@
+name: "Test Artifact Download"
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Get Artifact"
+        run: |
+          gh api \
+          -H "Accept: application/vnd.github+json" \
+          -H "X-GitHub-Api-Version: 2022-11-28" \
+          /repos/vladroff/legis/actions/artifacts
