@@ -2,8 +2,8 @@ name: "Test Artifact Download"
 on:
   workflow_dispatch:
     inputs:
-      runId:
-        description: "Legis Run ID With artifact"
+      artifact-id:
+        description: "Legis Artifact ID"
         required: true
         type: string
 
@@ -18,5 +18,5 @@ jobs:
           path: foo
           repository: vladroff/legis
           github-token: ${{ secrets.LEGIS_ACCESS_TOKEN }}
-          run-id: '${{ inputs.runId }}'
+          artifact-ids: '${{ inputs.artifact-id }}'
       - run: ls -R **
