@@ -6,11 +6,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: "Get Artifact"
-        env:
-          GH_TOKEN: ${{ secrets.LEGIS_ACCESS_TOKEN }}
-        run: |
-          gh api \
-          -H "Accept: application/vnd.github+json" \
-          -H "X-GitHub-Api-Version: 2022-11-28" \
-          /repos/vladroff/legis/actions/artifacts
+      - name: "Download Artifact"
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: foo
+          repository: vladroff/legis
