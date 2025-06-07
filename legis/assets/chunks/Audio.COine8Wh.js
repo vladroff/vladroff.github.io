@@ -1,0 +1,1 @@
+import{u as e,c as s,o as r,j as o}from"./framework.Bw0Gm4PQ.js";const n={style:{"margin-top":"16px"}},u={__name:"Audio",setup(i){const a=`audio/${e().frontmatter.value.legisId}.mp3`;return(m,t)=>(r(),s("div",n,[t[0]||(t[0]=o("div",{style:{"margin-bottom":"8px"}},"Listen to the summary:",-1)),o("audio",{controls:"",src:a})]))}};export{u as _};
