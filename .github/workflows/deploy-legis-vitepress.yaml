@@ -6,6 +6,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Notify Telegram (only if changes committed)
+#        if: ${{ success() && steps.commit.outputs.committed == 'true' }}
+        uses: appleboy/telegram-action@v1.0.0
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: markdown
+          message: |
+            *Legis deploy*
+            Successful deploy of Legis Vitepress.
       - uses: actions/checkout@v4
       - run: ls -R **
       - name: "Cleanup"
@@ -26,14 +36,28 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
           git add -A
           git status
           
           # If no staged changes, exit successfully
           if git diff --cached --quiet; then
+            echo "committed=false" >> "$GITHUB_OUTPUT"
             echo "No changes detected. Skipping commit and push."
             exit 0
           fi
           
           git commit -m "Legis Update (artifact run ${{ github.event.client_payload.run_id }})"
           git push
+          
+          echo "committed=true" >> "$GITHUB_OUTPUT"
+#      - name: Notify Telegram (only if changes committed)
+#        if: ${{ success() && steps.commit.outputs.committed == 'true' }}
+#        uses: appleboy/telegram-action@v1.0.0
+#        with:
+#          to: ${{ secrets.TELEGRAM_TO }}
+#          token: ${{ secrets.TELEGRAM_TOKEN }}
+#          format: markdown
+#          message: |
+#            *Legis deploy*
+#            Successful deploy of Legis Vitepress.
