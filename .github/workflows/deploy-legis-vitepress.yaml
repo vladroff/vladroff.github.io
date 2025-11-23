@@ -1,6 +1,7 @@
 name: "Deploy Legis Vitepress"
 on:
   repository_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
